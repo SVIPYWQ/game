@@ -1,0 +1,6 @@
+<script>
+    function ceshi() {
+        console.log(4 + 5)
+    }
+    ceshi()
+</script>
